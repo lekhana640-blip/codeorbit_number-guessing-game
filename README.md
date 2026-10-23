@@ -1,4 +1,5 @@
 🎯 Number Guessing Game
+
 A simple Python-based Number Guessing Game where the computer selects a random number and the player tries to guess it. The game provides hints after each guess and tracks the number of attempts taken to find the correct number.
 
 📌 Features
