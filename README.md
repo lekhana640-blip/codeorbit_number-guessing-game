@@ -3,6 +3,7 @@
 A simple Python-based Number Guessing Game where the computer selects a random number and the player tries to guess it. The game provides hints after each guess and tracks the number of attempts taken to find the correct number.
 
 📌 Features
+
 *Generates a random number between 1 and 100
 *Validates user input
 *Provides hints:
@@ -13,10 +14,12 @@ A simple Python-based Number Guessing Game where the computer selects a random n
 *Records the best score (fewest attempts)
 
 🛠️ Technologies Used
+
 Python 3
 Random module
 
 ▶️ How to Run
+
 Install Python 3 on your system.
 Download or clone this repository:
 git clone https://github.com/your-username/number-guessing-game.git
@@ -26,6 +29,7 @@ Run the program:
 number_guessing_game.py
 
 💻 Sample Output
+
 === Number Guessing Game ===
 
 I'm thinking of a number between 1 and 100.
@@ -46,6 +50,7 @@ Rounds played: 1
 Your best score: 3 attempt(s)
 
 🔍 How It Works
+
 The program generates a random number between 1 and 100.
 The player enters a guess.
 The game compares the guess with the secret number.
@@ -54,6 +59,7 @@ The total number of attempts is displayed.
 The player can choose to play additional rounds.
 
 🎓 Learning Outcomes
+
 This project helps in understanding:
 *Python Functions
 *Loops and Conditional Statements
@@ -63,6 +69,7 @@ This project helps in understanding:
 *Basic Game Development Logic
 
 🚀 Future Enhancements
+
 Difficulty levels (Easy, Medium, Hard)
 Scoreboard system
 Timer-based challenges
