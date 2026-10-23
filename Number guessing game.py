@@ -12,7 +12,7 @@ def get_valid_guess(low, high):
             # Runs if the user types letters or leaves it blank
             print("Invalid input! Please enter a whole number.")
 
-def play_round(low=1, high=100):
+def play_round(low=1, high=50):
     """Play a single round and return the number of attempts taken."""
     secret = random.randint(low, high)  # random number for this round
     attempts = 0                        # counts guesses
